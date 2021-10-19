@@ -1,0 +1,68 @@
+* {
+    margin: auto;
+    padding: 10px;
+    text-align: center;
+    border-radius: 10px;
+    background-color: black;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.h1 {
+    background-color: rgba(76, 0, 130, 0.705);
+    color: plum;
+    text-align: center;
+    width: 300px;
+    height: 30px;
+    font-size: 25px;
+    border-style:outset;
+    border-color: plum;
+   }
+
+.cell{
+    background-color: rgba(76, 0, 130, 0.705);
+    color: plum;
+    font-size: 30px;
+    width: 50px;
+    height: 30px;
+    text-align: center;
+    border: 2px solid plum;  
+    }
+
+.button{
+    width: 80px;
+    height: 35px;
+    background-color: rgba(76, 0, 130, 0.705);
+    color:  plum;
+    text-align: center;
+    margin-top: 15px;    ;  
+    font-size: x-large;
+    padding: 2px;
+    }
+.time{
+    width: 80px;
+    height: 20px;
+    background-color: rgba(76, 0, 130, 0.705);
+    color:  plum;
+    text-align: center;
+    margin-top: 15px;   
+    font-size: x-large;
+    padding: 2px;
+    border: 2px outset grey;
+    } 
+
+
+.button-small{
+    background-color: rgba(76, 0, 130, 0.705);
+    color:  plum;
+    text-align: center;     
+    font-size: medium;
+    }     
+
+.clickedNum{
+  background-color: plum;
+  color: rgba(76, 0, 130, 0.705);
+  font-size: 30px;
+  width: 50px;
+  height: 30px;
+  text-align: center;  
+ }
